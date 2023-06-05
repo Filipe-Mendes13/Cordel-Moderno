@@ -56,12 +56,12 @@ p{
 }
 .photo1{
     padding: 7%;
-    background: darkgrey url(imagens/background001.jpg) center right no-repeat fixed;
+    fundo : url cinza escuro  ( imagens/background001.jpg ) centro center sem repetição fixo ;   
     background-size: cover;
 }
 .photo2{
     padding: 7%;
-    background: darkgrey url(imagens/background002.jpg) center right no-repeat fixed;
+    fundo : url cinza escuro  ( imagens/background002.jpg ) centro center sem repetição fixo ;   
     background-size: cover;
 }
 
